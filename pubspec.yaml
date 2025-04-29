@@ -1,8 +1,9 @@
 name: google_maps_cluster_manager
 description: "A new Flutter project."
+publish_to: none
 version: 0.0.1
 homepage: https://github.com/Haffshah/google_maps_cluster_manager
-publish_to: none
+
 
 environment:
   sdk: ^3.5.3
